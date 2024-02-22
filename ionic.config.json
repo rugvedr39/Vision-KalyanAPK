@@ -1,0 +1,7 @@
+{
+  "name": "VK-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
